@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TasKagitMakas.Nesne">
+    <Position X="3" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAABAQAAAAAEAAgAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Nesne.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TasKagitMakas.Tas">
+    <Position X="0.5" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAwAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Tas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TasKagitMakas.AgirTas">
+    <Position X="0.5" Y="11.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAgAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>AgirTas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TasKagitMakas.Kagit">
+    <Position X="3.25" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAgAAAAAQAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Kagit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TasKagitMakas.Makas">
+    <Position X="6" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAgAAAAAAAAAAAAACAAAAAAgAA=</HashCode>
+      <FileName>Makas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TasKagitMakas.OzelKagit">
+    <Position X="3.25" Y="11.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAgAAAAAAAAAAAAACAAAAAgAAA=</HashCode>
+      <FileName>OzelKagit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TasKagitMakas.UstaMakas">
+    <Position X="6" Y="11.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAgAAAAAAAAAAAAACAAAABAAAA=</HashCode>
+      <FileName>UstaMakas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TasKagitMakas.Calculations">
+    <Position X="0.5" Y="5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAggAAAAAAAAAAA=</HashCode>
+      <FileName>Calculations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TasKagitMakas.Oyuncu">
+    <Position X="8.25" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAIAAQBAAAASEIAAAAABAAABYAAAAAAA=</HashCode>
+      <FileName>Oyuncu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TasKagitMakas.Kullanici">
+    <Position X="6.75" Y="6" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kullanici.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TasKagitMakas.Bilgisayar">
+    <Position X="10.25" Y="6" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Bilgisayar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TasKagitMakas.Form1">
+    <Position X="15.5" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>UAyQBIgFQGQAgBFCABCwCED+AwhEMCQEhAwCArAIIBQ=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TasKagitMakas.FormIntro">
+    <Position X="12.75" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAYEAAAAGAAAAAAAAA=</HashCode>
+      <FileName>FormIntro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TasKagitMakas.Program">
+    <Position X="0.5" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
